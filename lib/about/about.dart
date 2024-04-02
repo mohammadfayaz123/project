@@ -16,7 +16,7 @@ class AboutPage extends StatelessWidget {
           _buildDetailRow('First Name', 'Mohammad'),
           _buildDetailRow('Last Name', 'Fayaz'),
           _buildDetailRow('Department', 'Information System'),
-          _buildPhoneNumberRow('Telephone Number', '+93777745482'),
+          _buildPhoneNumberRow('Telephone Number', '+97777745482'),
           _buildDetailRow('Email', 'mohammadfayaz7175@gmail.com'),
         ],
       ),
